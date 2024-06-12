@@ -2,4 +2,4 @@
 title:
 ---
 
-Test thingyy!
+Welcome to J3hl0's personal blog page!
